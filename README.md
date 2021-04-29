@@ -1,7 +1,7 @@
 # GODNSLOG
 
 
-基于[godnslog](https://github.com/chennqqi/godnslog/)项目修改
+基于[chennqqi/godnslog/](https://github.com/chennqqi/godnslog/)项目修改
 
 
 A dns&amp;http log server for verify SSRF/XXE/RFI/RCE vulnerability

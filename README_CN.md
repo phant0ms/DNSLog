@@ -1,5 +1,7 @@
 # GODNSLOG
 
+基于[chennqqi/godnslog/](https://github.com/chennqqi/godnslog/)项目修改
+
 ## changelog
 
 * 注释api时间校验。
